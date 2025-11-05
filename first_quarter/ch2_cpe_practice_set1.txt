@@ -1,0 +1,21 @@
+1. 0
+2. C - invalid
+3. D - 42
+4. D - 9.0
+5. A - -0.02
+6. A - 4.2
+7. 567
+8. B - 14-2
+9. 2
+10. A - f
+11. 16
+12. D - 91211
+13. A - 0
+14. C - bool
+15. C - 35
+16. D - invalid
+17. B - this_one_is
+18. 31
+19. B, C, E, F
+20. 31
+21. D - compilation fails
